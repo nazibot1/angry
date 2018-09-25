@@ -1,6 +1,6 @@
 token=NDc5OTU1NDgyMzAwMzgzMjM0.Dn9Uxg.EFuTU1KpOYxaJpUdOMUaLbY5fAw
 owner=465399140059316238
-prefix=Nj
+prefix=-r
 game=
 stayinchannel=true
 songinstatus=false
